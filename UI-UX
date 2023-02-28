@@ -1,31 +1,36 @@
 1) What is UX design?
-  UX design is the process of creating digital products or services that are easy, enjoyable, and efficient to use. The goal of UX design is to make the         user's experience with a product or service as seamless and satisfying as possible, by understanding their needs, behaviors, and preferences, and designing interfaces that       meet those requirements. UX design involves a combination of research, analysis, prototyping, and testing to ensure that the end result is not only aesthetically pleasing       but also user-friendly and functional.
-
+  UX design is the process of creating digital products or services that are easy, enjoyable, and efficient to use. The goal of UX design is to make the user's experience with a product or service satisfying as possible, by understanding their needs, behaviors, and preferences, and designing interfaces that meet those requirements. UX design involves a combination of research, analysis, prototyping, and testing to ensure that the end result is not only aesthetically pleasing but also user-friendly and functional.
 
 
 2) Tell me about some of your favorite examples of good UX.
-    Google Search: The search engine's interface is simple, intuitive, and fast, with a minimalist design that prioritizes relevant results and easy navigation.
-    Spotify: The music streaming platform offers personalized recommendations, easy-to-use playlists, and a seamless playback experience across different devices.
+    Google Search: The search engine's interface is simple and fast, with a minimum design that prioritizes relevant results and easy navigation.
+    Spotify: This music streaming platform offers personalized recommendations, easy-to-use playlists, and a seamless playback experience across different devices.
     swiggy: - Easy-to-use interface: Swiggy has a simple interface that makes it easy to navigate and place orders.
             - Search functionality: Swiggy allows users to search for restaurants and dishes based on their preferences, making it easy to find what they're looking for.
             - Customization options: Swiggy provides users with customization options adding, removing certain ingredients, to make sure their food is exactly how they want it.
             - Real-time order tracking: Swiggy lets users track their order in real-time, so they know exactly when their food will arrive.
             - Ratings and reviews: Swiggy shows users ratings and reviews of restaurants and dishes, allowing them to make informed choices about what to order.
-            - Payment options: Swiggy supports various payment options such as credit/debit cards, net banking, and digital wallets, making it convenient for users to pay for                                    their orders.
+            - Payment options: Swiggy supports various payment options such as credit/debit cards, net banking, and digital wallets, making it convenient for users to pay for                 their orders.
             - Promotions and discounts: Swiggy offers promotions and discounts to users, making it more affordable to order food.
 
 
 
 3) What is the difference between UX and UI?
-   UI (User Interface) refers to the visual and interactive elements of a product or website, such as buttons, menus, and icons, that users interact with to accomplish tasks or    access information. UI design focuses on creating attractive, functional and easy-to-use interfaces that meet user needs.
+   UI (User Interface) refers to the visual and interactive elements of a product or website, such as buttons, menus, and icons, that users interact with to tasks or access information. UI design focuses on creating attractive, functional and easy-to-use interfaces that meet user needs.
 
-   UX (User Experience) refers to the overall experience a user has with a product or website, including how easy it is to use, how efficient it is, how it makes the user feel,    and whether it meets the user's needs. UX design focuses on creating a positive and intuitive experience for users throughout their entire journey, from initial discovery to    long-term use. It involves understanding user behavior and feedback to improve the design of the product or website.
+   UX refers to the overall experience a user has with a product or website, including how easy it is to use, how efficient it is, how it makes the user feel, and whether it meets the user's needs. UX design focuses on creating a positive and intuitive experience for users throughout their entire journey, from initial discovery to long-term use. It involves understanding user behavior and feedback to improve the design of the product or website.
    
    
    
    
    
 4) Walk me through your workflow.
+     firt of all I will define the business need.
+     then i will conduct market reasearch, compititor research
+     after searching their market and compititors, I will create architecture and flow by using figjam.
+     and then i will design low frame prototype and then I will do high prototype in figma design or adobe xd. 
+     after completing a UI project, I will test it from few customers and take their fedback.. If something need to change I'll change it, After completing users test I will show this project and Good feedbacks to client and design handoff. 
+
 
 5) What kind of research methods do you use?
 
