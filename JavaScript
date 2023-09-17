@@ -1,1 +1,4 @@
-
+1) Basics of javascript: variables, functions, loops, conditional statement
+2) core concepts: Events Loops, Promises, Event Handlers, Event listeners, Async and wait
+3) Advanced Javascript : web workers, hoisting, Event Bubbling, Memoization, throlling, debounce, prototype inheritance
+4) High order functions: .map(), .sort(), .reduce(), .filter()
