@@ -1,1 +1,4 @@
-
+1) What is a DOM in browser? what is the data structure used to support it?
+2) what are the cookies in the browser?
+3) When javascript is compiled? Do one large javascript file is better than smaller chunks?
+4) what is minification of js? what is the purpose of doing minification?
